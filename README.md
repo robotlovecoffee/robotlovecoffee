@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @robotlovecoffee
-- 👀 I’m interested in the NFT space
-- 🌱 I’m currently digging into web3
-- 💞️ I’m looking to collaborate on NFT developement projects
+- 👋 I’m @robotlovecoffee
+- 👀 I’m interested in the blockchain
 - 📫 How to reach me tw: @robotlovecoffee 
 
 <!---
